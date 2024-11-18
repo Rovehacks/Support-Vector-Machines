@@ -1,5 +1,5 @@
-# Hands-on 3
-Topic: Classification with Logistic Regression in Orange
+# Hands-on 4
+Topic: Classification with Support Vector Machines(SVM) in Orange
 
 ---
 
